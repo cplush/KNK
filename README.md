@@ -1,6 +1,6 @@
-# 🌸 (Kage no Sekai (World of Shadows)
+# 🌸 Kage no Sekai World of Shadows
 
-**(Kage no Sekai (World of Shadows)** is a story-driven, anime-inspired adventure game blending cinematic storytelling, dynamic combat, and an immersive fantasy world.  
+**Kage no Sekai (World of Shadows)** is a story-driven, anime-inspired adventure game blending cinematic storytelling, dynamic combat, and an immersive fantasy world.  
 This repository serves as the official hub for downloads, updates, and documentation.
 
 ---
